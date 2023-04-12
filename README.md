@@ -2,7 +2,7 @@
 Pratham Bot Repository made by UVPP
 
 GIT ID - paarthh2812
-GIT AUTH_TOKEN - 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
+GIT AUTH_TOKEN - Given on Desktop
 Repo Link - https://github.com/Paarthh2812/ros_pratham.git
 GIT Email ID - paarthh20@gmail.com
 
