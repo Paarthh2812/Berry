@@ -1,5 +1,5 @@
-# ros_pratham
-Pratham Bot Repository made by UVPP
+# BERRY-OPEN-SOURCE
+BERRY - Made by Paarth Parikh
 
 GIT ID - paarthh2812
 GIT AUTH_TOKEN - Given on Desktop
